@@ -54,4 +54,8 @@ While this method lacks the high-fidelity transfer of neural style transfer algo
 Output Saving
 The blended tensor is converted back into an image using ToPILImage() and saved as stylized_output.jpg using the save_image() function.
 
+OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/61a64cd3-ce80-4c88-a058-315faf25963e" />
+
 
